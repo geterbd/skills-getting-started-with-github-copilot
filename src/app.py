@@ -48,7 +48,7 @@ activities = {
     "Soccer Club": {
         "description": "Practice soccer skills and play friendly matches",
         "schedule": "Wednesdays, 3:30 PM - 5:30 PM",
-        "max_participants": 20,
+        "max_participants": 25,
         "participants": ["noah@mergington.edu", "ava@mergington.edu"]
     },
     "Art Workshop": {
